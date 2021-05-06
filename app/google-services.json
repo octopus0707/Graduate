@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "211246963976",
+    "firebase_url": "https://graduationprojectmis111-default-rtdb.firebaseio.com",
+    "project_id": "graduationprojectmis111",
+    "storage_bucket": "graduationprojectmis111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211246963976:android:e86a0504f24e0c3bcee0bd",
+        "android_client_info": {
+          "package_name": "com.example.happyhappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211246963976-o1l60f38ktt6p1vth0g2hemftptotfco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZduS6Pe8UaI5Btaaps6oQfNSsgqWoBr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211246963976-o1l60f38ktt6p1vth0g2hemftptotfco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
